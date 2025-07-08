@@ -1,0 +1,10 @@
+*.zip
+*.csv
+*.pth
+*.pdf
+gpt2
+*.json
+*.ipynb_checkpoints
+__pycache__
+sms_spam_sms_spam_collection
+sms_spam_collection
